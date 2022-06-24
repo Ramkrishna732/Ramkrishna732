@@ -3,10 +3,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ramkrishna732&label=Profile%20views&color=0e75b6&style=flat" alt="ramkrishna732" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramkrishna732" alt="ramkrishna732" /></a> </p>
-<p align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramkrishna732&theme=radical)</p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramkrishna732" alt="ramkrishna732" /></a> 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramkrishna732&theme=radical)
+</p>
 
 <p align="center"> <a href="https://twitter.com/ramkrishna_732" target="blank"><img src="https://img.shields.io/twitter/follow/ramkrishna_732?logo=twitter&style=for-the-badge" alt="ramkrishna_732" /></a> </p>
 <p align="center">
