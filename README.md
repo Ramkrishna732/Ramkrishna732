@@ -8,7 +8,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramkrishna732&theme=radical)
 </p>
 
-<p align="center"> <a href="https://twitter.com/ramkrishna_732" target="blank"><img src="https://img.shields.io/twitter/following/ramkrishna_732?logo=twitter&style=for-the-badge" alt="ramkrishna_732" /></a> </p>
+<p align="center"> <a href="https://twitter.com/ramkrishna_732" target="blank"><img src="https://img.shields.io/twitter/follow/ramkrishna_732?logo=twitter&style=for-the-badge" alt="ramkrishna_732" /></a> </p>
 <p align="center">
 - 🌱 I’m currently learning **MERN Stack**
 
