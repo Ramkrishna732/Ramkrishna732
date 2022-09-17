@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1IJZ-PSgL7jYVdtzJJ6XmGhIOCgYHWnal/view?usp=sharing" alt="ramkrishna732" />
+<!-- <img src="https://drive.google.com/file/d/1IJZ-PSgL7jYVdtzJJ6XmGhIOCgYHWnal/view?usp=sharing" alt="ramkrishna732" /> -->
 <h1 align="center">Hi 👋, I'm Ramkrishna Maurya</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 <h3 align="center">Connect with me:</h3>
